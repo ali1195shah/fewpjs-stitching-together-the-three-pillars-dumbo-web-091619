@@ -41,7 +41,7 @@ function likeCallback(e) {
 
 for (let glyph of articleHearts) {
   glyph.addEventListener("click", likeCallback);
-//}
+}
 
 // STEP 4: 
 
